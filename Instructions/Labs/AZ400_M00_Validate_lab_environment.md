@@ -1,14 +1,6 @@
----
-lab:
-    title: 'Validate lab environment'
-    module: 'Module 0: Welcome'
----
+# Lab 00: Validate lab environment
 
-# Validate lab environment
-
-## Student lab manual
-
-## Instructions to create an Azure DevOps Organization (you only have to do this once)
+## Instructions
 
 > **Note**: Start at step 4, if you do already have a **personal Microsoft Account** setup and an active Microsoft Azure Pass subscription linked to that account.
 
