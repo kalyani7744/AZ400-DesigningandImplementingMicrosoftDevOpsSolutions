@@ -361,11 +361,10 @@ YAML Pipelines as Code don't have Release/Quality Gates as we have with Azure De
 19. Paste in the following Yaml Snippet:
 
     ```yaml
-        strategy:
-          runOnce:
-            deploy:
+    strategy:
+      runOnce:
+        deploy:
     ```
-
 20. Select the remaining snippet (Line **67** all the way to the end), and use the **Tab** key to fix the YAML indentation.
 
     The resulting YAML snippet should look like this now, reflecting the **Deploy Stage**:
